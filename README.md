@@ -1,3 +1,3 @@
 # Hexagonal
 
-Projeto template para arquitetura Hexagonal
+Projeto template para arquitetura Hexagonal.
